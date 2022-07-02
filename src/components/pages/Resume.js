@@ -7,11 +7,12 @@ export default function Resume() {
       <div className="d-flex justify-content-center">
         <img
           className="img-fluid "
-          src="https://coda.newjobs.com/api/imagesproxy/ms/seo-media/us/resume-images/sales-director.jpg"
+          src="images/Derrick Bueno.pdf"
           alt="resume"
           width="50%"
           height="70%"
         />
+        
       </div>
     </div>
   );
